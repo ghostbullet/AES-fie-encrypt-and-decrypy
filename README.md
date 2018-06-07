@@ -1,3 +1,3 @@
 # AES-fie-encrypt-and-decrypy
-AES
-Just AES thing
+Encrypt and decrypt any file you want with AES
+***From*** ///***EmGai's Rain***\\\ ***team***
